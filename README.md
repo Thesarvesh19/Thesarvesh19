@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="thesarvesh19" /> </p>
 
+<h3 align="left">⚡ Coding Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesarvesh19&theme=tokyonight&hide_border=false" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/thesarvesh19" target="blank"><img src="https://img.shields.io/twitter/follow/thesarvesh19?logo=twitter&style=for-the-badge" alt="thesarvesh19" /></a> </p>
 
