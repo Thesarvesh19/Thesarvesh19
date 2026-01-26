@@ -1,4 +1,4 @@
-<h1 align="center">Hi World, I'm Sarvesh Soumil</h1>
+<h1 align="center">Hi World 🌍, Sarvesh Soumil — building, breaking, and learning.</h1>
 <h3 align="center">A passionate Aspiring Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="thesarvesh19" /> </p>
