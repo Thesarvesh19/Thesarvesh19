@@ -1,7 +1,10 @@
 <h1 align="center">Hi World 🌍, Sarvesh Soumil — building, breaking, and learning.</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Sarvesh%20Soumil&fontSize=40&fontAlignY=35" />
+</p>
+
 <h3 align="center">
-  A passionate Aspiring 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=Data+Scientist;Software+Engineer;Data+Analyst;Machine+Learning+Engineer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=A+passionate+Aspiring+Data+Scientist;Software+Engineer;Data+Analyst;ML+Engineer;Web+Developer" />
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="thesarvesh19" /> </p>
