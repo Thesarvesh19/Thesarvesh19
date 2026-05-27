@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="thesarvesh19" /> </p>
 
-<h3 align="center">🔥 Coding Streak</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thesarvesh19&cache_seconds=1800&theme=highcontrast&hide_border=true&border_radius=10" />
+<img src="https://raw.githubusercontent.com/thesarvesh19/thesarvesh19/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 
