@@ -8,7 +8,7 @@
 <h3 align="center">🔥 Coding Streak</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thesarvesh19&theme=highcontrast&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=thesarvesh19&cache_seconds=1800&theme=highcontrast&hide_border=true&border_radius=10" />
 </p>
 
 
