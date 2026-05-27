@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesarvesh19&label=Profile%20views&color=0e75b6&style=flat" alt="thesarvesh19" /> </p>
 
-<h3 align="left">⚡ Coding Streak</h3>
+<h3 align="center">🔥 Coding Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesarvesh19&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=thesarvesh19&theme=highcontrast&hide_border=true&border_radius=10" />
 </p>
 
 
