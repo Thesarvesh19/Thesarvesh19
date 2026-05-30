@@ -11,6 +11,12 @@
 <img src="https://raw.githubusercontent.com/thesarvesh19/thesarvesh19/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarvesh19&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/thesarvesh19" target="blank"><img src="https://img.shields.io/twitter/follow/thesarvesh19?logo=twitter&style=for-the-badge" alt="thesarvesh19" /></a> </p>
 
